@@ -1,0 +1,8 @@
+bottle==0.12.13
+pkg-resources==0.0.0
+python-dateutil==2.7.5
+Radicale==2.1.10
+six==1.11.0
+vobject==0.9.6.1
+WebOb==1.8.3
+WSGIProxy2==0.4.5
